@@ -82,18 +82,18 @@ Linkedin: **https://www.linkedin.com/in/bello-kabirat-780bb132b?utm_source=share
 
 Gmail: **Kabiratbello7@gmail.com**
 
-## 📄License##
+## 📄License
 
 **This project is for educational and portfolio purposes.**
 
 ## Acknowledgements 
-**Kaggle** for providing the dataset
+**Kaggle (dataset source)** 
 
-**Streamlit** 
+**Streamlit documentation** 
 
 **Open-source Python community**
 
-**Thank you for viewing my project!** 
+**Thank you for viewing my project!✨** 
 
 
 
