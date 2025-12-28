@@ -72,7 +72,7 @@ streamlit run app.py
 - Insights may not reflect the current global job market
 
 
-## 👤Author Kabirat Omolola Bello
+## 👤Author: Kabirat Omolola Bello
 GitHub: **https://github.com/Kabirat-Bello**
 
 Linkedin: **https://www.linkedin.com/in/bello-kabirat-780bb132b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app**
