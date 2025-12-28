@@ -8,13 +8,10 @@
 6. Installation  
 7. Usage  
 8. Project Structure  
-9. Configuration  
-10. Limitations  
-11. Future Improvements  
-12. Contribution Guidelines  
-13. Author  
-14. License  
-15. Acknowledgements  
+9. Limitations 
+10. Author  
+11. License  
+12. Acknowledgements  
 ## 📝Description
 The **Future Jobs Dashboard** is an interactive Streamlit application that analyzes and visualizes trends in future job roles. Users can explore job demand, salary distribution, and posting trends using filters, metrics, and interactive charts.
 
