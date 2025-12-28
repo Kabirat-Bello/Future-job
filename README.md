@@ -84,16 +84,16 @@ Gmail: **Kabiratbello7@gmail.com**
 
 ## 📄License
 
-**This project is for educational and portfolio purposes.**
+This project is for educational and portfolio purposes.
 
 ## Acknowledgements 
-**Kaggle (dataset source)** 
+Kaggle (dataset source)
 
-**Streamlit documentation** 
+Streamlit documentation
 
-**Open-source Python community**
+Open-source Python community
 
-**Thank you for viewing my project!✨** 
+Thank you for viewing my project!✨ 
 
 
 
