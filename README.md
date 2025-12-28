@@ -1,6 +1,21 @@
-# Future Jobs Dashboard (Streamlit App)
-
-## Description
+# 📊Future Jobs Dashboard (Streamlit App)
+## 📌 Table of Contents
+1. Description  
+2. Motivation  
+3. Features  
+4. Technologies Used  
+5. Dataset Information  
+6. Installation  
+7. Usage  
+8. Project Structure  
+9. Configuration  
+10. Limitations  
+11. Future Improvements  
+12. Contribution Guidelines  
+13. Author  
+14. License  
+15. Acknowledgements  
+## 📝Description
 The **Future Jobs Dashboard** is an interactive Streamlit application that analyzes and visualizes trends in future job roles. Users can explore job demand, salary distribution, and posting trends using filters, metrics, and interactive charts.
 
 This is a personal data analysis and visualization portfolio project built with Python and Streamlit.
@@ -28,7 +43,7 @@ To understand evolving job market trends, especially in future-oriented and tech
 ## Dataset Information
 The dataset was downloaded from Kaggle and contains information about future job roles, including:
 - Job Title
-- Job Category
+- Skills Required
 - Salary (USD)
 - Posting Date
 - Industry
@@ -36,13 +51,19 @@ The dataset was downloaded from Kaggle and contains information about future job
 
 **File:** `future_jobs_dataset.csv`
 
-## Installation
+## ⚙️Installation
 ```bash
 git clone https://github.com/Kabirat-Bello/Future-job.git
 cd Future-job
-pip install -r requirements.tx
+pip install -r requirements.txt
+```
+## Usage
+```
+streamlit run app.py
+```
 
-#Project Structure
+## Project Structure
+```
 ├── app.py                     # Main Streamlit app
 ├── future_jobs_dataset.csv    # Dataset
 ├── requirements.txt           # Dependencies
@@ -54,15 +75,23 @@ pip install -r requirements.tx
 - Insights may not reflect the current global job market
 
 
-## AuthorKabirat Omolola
+## 👤Author Kabirat Omolola
 GitHub: **https://github.com/Kabirat-Bello**
 
 Linkedin: **https://www.linkedin.com/in/bello-kabirat-780bb132b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app**
 
+Gmail: **Kabiratbello7@gmail.com**
+
+## 📄License##
+
+**This project is for educational and portfolio purposes.**
+
 ## Acknowledgements 
 **Kaggle** for providing the dataset
 
-**Streamlit and the open-source Python community**
+**Streamlit** 
+
+**Open-source Python community**
 
 **Thank you for viewing my project!** 
 
