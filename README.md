@@ -40,9 +40,26 @@ The dataset was downloaded from Kaggle and contains information about future job
 ```bash
 git clone https://github.com/Kabirat-Bello/Future-job.git
 cd Future-job
-pip install -r requirements.txt
-
-##Usage
+pip install -r requirements.tx
 streamlit run app.py
+├── app.py                     
+├── future_jobs_dataset.csv    
+├── requirements.txt           
+└── README.md
+```
+Limitations
+Dataset is static (no real-time data)
+Insights may not reflect the current global job market
+
+
+AuthorKabirat Omolola
+GitHub: https://github.com/Kabirat-Bello
+Linkedin: Bello Kabirat
+
+Acknowledgements Kaggle for providing the dataset
+Streamlit and the open-source Python community
+
+Thank you for viewing my project! 
+
 
 
