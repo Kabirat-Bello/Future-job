@@ -42,8 +42,7 @@ git clone https://github.com/Kabirat-Bello/Future-job.git
 cd Future-job
 pip install -r requirements.tx
 
-streamlit run app.py
-
+#Project Structure
 ├── app.py                     # Main Streamlit app
 ├── future_jobs_dataset.csv    # Dataset
 ├── requirements.txt           # Dependencies
@@ -58,7 +57,7 @@ streamlit run app.py
 ## AuthorKabirat Omolola
 GitHub: **https://github.com/Kabirat-Bello**
 
-Linkedin: **Bello Kabirat**
+Linkedin: **https://www.linkedin.com/in/bello-kabirat-780bb132b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app**
 
 ## Acknowledgements 
 **Kaggle** for providing the dataset
