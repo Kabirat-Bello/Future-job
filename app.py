@@ -24,7 +24,7 @@ if page == "HOME":
     st.markdown("""
     ## 📊 About the Dataset
     
-    The **Future Jobs Dataset** provides a structured view of emerging job opportunities across different industries, locations, and work arrangements. It is designed to help users         understand how the job market is evolving, which roles are gaining demand, and what skills are becoming increasingly important for the future workforce.
+    The **Future Jobs Dataset** provides a structured view of emerging job opportunities across different industries, and locations. It is designed to help users         understand how the job market is evolving, which roles are gaining demand, and what skills are becoming increasingly important for the future workforce.
     Each row in the dataset represents a **single job posting**, identified by a unique job ID. The dataset combines information on job roles, industries, salaries, locations,              required skills, and posting dates to support meaningful data exploration and analysis.
     
     ### 🔍 Key Features of the Dataset
