@@ -57,10 +57,11 @@ streamlit run app.py
 
 ## AuthorKabirat Omolola
 GitHub: **https://github.com/Kabirat-Bello**
+
 Linkedin: **Bello Kabirat**
 
 ## Acknowledgements 
-**Kaggle for providing the dataset**
+**Kaggle** for providing the dataset
 **Streamlit and the open-source Python community**
 
 **Thank you for viewing my project!** 
