@@ -41,3 +41,8 @@ The dataset was downloaded from Kaggle and contains information about future job
 git clone https://github.com/Kabirat-Bello/Future-job.git
 cd Future-job
 pip install -r requirements.txt
+
+##Usage
+streamlit run app.py
+
+
